@@ -13,6 +13,8 @@ Contributions appreciated! Submit a pull request with any and all resources you'
 
 ### Math Books
 
+Shilov, G. E. (1977). Linear Algebra. United Kingdom: Dover Publications.
+
 ### Engineering Books
 
 ### Psychology Books
