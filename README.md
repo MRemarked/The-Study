@@ -15,6 +15,8 @@ Contributions appreciated! Submit a pull request with any and all resources you'
 
 Shilov, G. E. (1977). Linear Algebra. United Kingdom: Dover Publications.
 
+Colley, S. J. (2012). Vector Calculus. United Kingdom: Pearson.
+
 ### Engineering Books
 
 ### Psychology Books
