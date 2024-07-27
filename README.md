@@ -17,6 +17,10 @@ Shilov, G. E. (1977). Linear Algebra. United Kingdom: Dover Publications.
 
 Colley, S. J. (2012). Vector Calculus. United Kingdom: Pearson.
 
+Tenenbaum, M., Pollard, H. (1985). Ordinary differential equations : an elementary textbook for students of mathematics, engineering, and the sciences. Japan: Dover Publications.
+
+Brown, J. W., Churchill, R. V. (2004). Complex variables and applications. Boston: McGraw-Hill Higher Education.
+
 ### Engineering Books
 
 ### Psychology Books
