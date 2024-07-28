@@ -21,6 +21,10 @@ Tenenbaum, M., Pollard, H. (1985). Ordinary differential equations : an ele
 
 Brown, J. W., Churchill, R. V. (2004). Complex variables and applications. Boston: McGraw-Hill Higher Education.
 
+Folland, G. B. (2002). Advanced Calculus. United Kingdom: Prentice Hall.
+
+Holmes, M. H. (2009). Introduction to the Foundations of Applied Mathematics. Netherlands: Springer.
+
 ### Engineering Books
 
 ### Psychology Books
