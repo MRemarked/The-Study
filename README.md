@@ -27,6 +27,10 @@ Holmes, M. H. (2009). Introduction to the Foundations of Applied Mathematics
 
 ### Engineering Books
 
+Oppenheim, A. V., Willsky, A. S., Nawab, S. H. (1997). Signals & Systems. United Kingdom: Prentice Hall.
+
+Stark, H., Woods, J. W. (2012). Probability, Statistics, and Random Processes for Engineers. United Kingdom: Pearson.
+
 ### Psychology Books
 
 ## External Resource Links
